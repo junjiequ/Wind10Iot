@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ArduinoWiringLib", "Arduino
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Win10IoTCoreIO.ArduinoWiring", "Win10IoTCoreIO.ArduinoWiring\Win10IoTCoreIO.ArduinoWiring.csproj", "{6EA368EC-811F-461B-AA8F-A3667E4EBFC5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Win10IoTCoreIO.ArduinoWiring.Background", "Win10IoTCoreIO.ArduinoWiring.Background\Win10IoTCoreIO.ArduinoWiring.Background.csproj", "{4E08EC96-B573-4D60-992E-BA8F20D8E02C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM = Debug|ARM
@@ -73,6 +75,24 @@ Global
 		{6EA368EC-811F-461B-AA8F-A3667E4EBFC5}.Release|x86.ActiveCfg = Release|x86
 		{6EA368EC-811F-461B-AA8F-A3667E4EBFC5}.Release|x86.Build.0 = Release|x86
 		{6EA368EC-811F-461B-AA8F-A3667E4EBFC5}.Release|x86.Deploy.0 = Release|x86
+		{4E08EC96-B573-4D60-992E-BA8F20D8E02C}.Debug|ARM.ActiveCfg = Debug|ARM
+		{4E08EC96-B573-4D60-992E-BA8F20D8E02C}.Debug|ARM.Build.0 = Debug|ARM
+		{4E08EC96-B573-4D60-992E-BA8F20D8E02C}.Debug|ARM.Deploy.0 = Debug|ARM
+		{4E08EC96-B573-4D60-992E-BA8F20D8E02C}.Debug|x64.ActiveCfg = Debug|x64
+		{4E08EC96-B573-4D60-992E-BA8F20D8E02C}.Debug|x64.Build.0 = Debug|x64
+		{4E08EC96-B573-4D60-992E-BA8F20D8E02C}.Debug|x64.Deploy.0 = Debug|x64
+		{4E08EC96-B573-4D60-992E-BA8F20D8E02C}.Debug|x86.ActiveCfg = Debug|x86
+		{4E08EC96-B573-4D60-992E-BA8F20D8E02C}.Debug|x86.Build.0 = Debug|x86
+		{4E08EC96-B573-4D60-992E-BA8F20D8E02C}.Debug|x86.Deploy.0 = Debug|x86
+		{4E08EC96-B573-4D60-992E-BA8F20D8E02C}.Release|ARM.ActiveCfg = Release|ARM
+		{4E08EC96-B573-4D60-992E-BA8F20D8E02C}.Release|ARM.Build.0 = Release|ARM
+		{4E08EC96-B573-4D60-992E-BA8F20D8E02C}.Release|ARM.Deploy.0 = Release|ARM
+		{4E08EC96-B573-4D60-992E-BA8F20D8E02C}.Release|x64.ActiveCfg = Release|x64
+		{4E08EC96-B573-4D60-992E-BA8F20D8E02C}.Release|x64.Build.0 = Release|x64
+		{4E08EC96-B573-4D60-992E-BA8F20D8E02C}.Release|x64.Deploy.0 = Release|x64
+		{4E08EC96-B573-4D60-992E-BA8F20D8E02C}.Release|x86.ActiveCfg = Release|x86
+		{4E08EC96-B573-4D60-992E-BA8F20D8E02C}.Release|x86.Build.0 = Release|x86
+		{4E08EC96-B573-4D60-992E-BA8F20D8E02C}.Release|x86.Deploy.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
